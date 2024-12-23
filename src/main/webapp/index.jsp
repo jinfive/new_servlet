@@ -5,9 +5,10 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
+<h1><%= "Hello World!" %></h1>
 <br/>
+<a href="state.jsp">상태정보페이지로 이동</a>
+<hr color="blue">
 <a href="login.jsp">로그인페이지로</a>
 <a href="number.jsp">숫자계산 페이지로</a>
 <a href="life">생명주기 페이지로</a>
