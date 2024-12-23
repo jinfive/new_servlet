@@ -26,6 +26,31 @@
     <a href="cookie4.jsp">
         <button>광고 추적기 -기록에 따라 마케팅을다르게 설정</button>
     </a>
+    <hr color="red">
+<a href="sessionSet.jsp">
+    <button>세선 설정하기</button>
+</a>
+<a href="sessionGet.jsp">
+    <button>세션값 출력하기</button>
+</a>
+    </a>
+    <br>
+
+    <a href="loginSeesion.jsp">
+        <button>로그인 하러가기</button>
+    </a>
+
+
+    </a>
+    <br>
+
+    <a href="sessionCheck.jsp">
+        <button>Check세션 생성하러가기</button>
+    </a>
+    <a href="sessionpResult.jsp">
+        <button>Check세션 생성확인하기</button>
+    </a>
+
 
 
 
