@@ -11,6 +11,15 @@
     <title>Title</title>
 </head>
 <body>
+<h1>장바구니</h1>
+
+<%
+    Cookie[] cookies = request.getCookies();
+    for(Cookie cookie : cookies) {
+        out.println(cookie.getValue()+"<br/>");
+    }
+%>
+<a href="addCart.jsp">아이템추가</a>
 
 </body>
 </html>
