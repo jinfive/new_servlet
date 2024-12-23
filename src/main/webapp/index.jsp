@@ -5,6 +5,10 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
+<a href="cart.jsp">
+    <button>입력화면 가기</button>
+</a>
+<hr color="red">
 <h1><%= "Hello World!" %></h1>
 <br/>
 <a href="state.jsp">상태정보페이지로 이동</a>
