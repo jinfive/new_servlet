@@ -8,6 +8,8 @@
 <h1><%= "Hello World!" %></h1>
 <br/>
 <a href="state.jsp">상태정보페이지로 이동</a>
+<a href="Input.jsp">한글필터 연습</a>
+
 <hr color="blue">
 <a href="login.jsp">로그인페이지로</a>
 <a href="number.jsp">숫자계산 페이지로</a>
